@@ -1,7 +1,7 @@
 
 # tl;dr
 
-1. 下载 zip [Click me](https://github.com/hihereexc/eldenringcoop/raw/main/files/Seamless Co-op BETA 1.5.1-510-1-5-1-1679612410.zip)
+1. 下载 zip [Click me](https://github.com/hihereexc/eldenringcoop/raw/main/files/Seamless%20Co-op%20BETA%201.5.1-510-1-5-1-1679612410.zip)
 2. 解压
 3. 复制解压出的全部（2个）文件到 `C:\Program Files (x86)\Steam\steamapps\common\ELDEN RING\Game`
 4. 打开 `%appdata%/EldenRing`, 进入里面一个数字开头的文件夹
